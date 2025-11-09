@@ -1,4 +1,5 @@
 📘 SQLite + Pandas Data Analysis (College Database)
+
 🧩 Overview
 
 This project demonstrates how to use SQLite and Pandas in Python to store, query, and analyze student data.
@@ -46,6 +47,7 @@ Comment them back (to avoid duplicates).
 Run again to explore and analyze the data.
 
 📊 Example Operations
+
 🔹 Load Data
 ```
 df = pd.read_sql("SELECT * FROM students", conn)
